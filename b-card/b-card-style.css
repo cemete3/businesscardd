@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    background-color: lightslategrey;
+}
+.pp-img {
+    width: 170px;
+    border-radius: 15px;
+}
+
+.card {
+    border: 5px rgb(209, 184, 241);
+    border-bottom-style: solid;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(67, 52, 83);
+    width: 400px;
+    margin: auto;
+}
+
+.txt {
+    margin: 0px auto;
+    display: block;
+    text-align: center;
+    padding-left: 20px;
+    color: rgb(226, 205, 253);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
